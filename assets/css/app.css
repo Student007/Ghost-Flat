@@ -1,0 +1,68 @@
+section.posts {
+    margin-top: 2em;
+}
+
+h1 {
+    color: #4FC1E9;
+}
+
+h1 {
+	font-size: 200%;
+}
+h2 {
+	font-size: 150%;
+}
+h3 {
+	font-size: 110%;
+}
+h3 {
+	font-size: 100%;
+}
+h4 {
+	font-size: 99%;
+}
+h5 {
+	font-size: 96%;
+}
+h6 {
+	font-size: 92%;
+}
+
+header>h1 {
+	font-size: 250%;
+}
+header>h2 {
+	font-size: 187.5%;
+}
+header>h3 {
+	font-size: 125%;
+}
+header>h4 {
+	font-size: 123%;
+}
+header>h5 {
+	font-size: 100%;
+}
+header>h6 {
+	font-size: 90%;
+}
+
+
+footer {
+    margin-top: 3em;
+    color: white;
+}
+
+.circ-odd {
+    background-color: #4B77BE !important;
+}
+
+.navbar-brand > img {
+    display: inline!important;
+}
+
+.navbar-logo {
+    display: inline-block;
+    height: 26px;
+
+}
