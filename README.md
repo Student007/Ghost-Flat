@@ -1,7 +1,7 @@
 # Ghost-Flat
 
 Ghost-Flat Theme is a Flat theme for Ghost Blog.
-It's based on [Bootflat](http://bootflat.github.io/).
+It's based on a modified version of [Bootflat](http://bootflat.github.io/).
 
 ## Copyright & License
 
