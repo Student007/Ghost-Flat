@@ -78,3 +78,27 @@ footer {
 .timeline dl dd .events .events-body .events-heading {
     font-size: 16px!important;
 }
+
+.container-withcover {
+    background-position:center top;
+    background-size: cover;
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+    text-shadow: 0 0 2px #4B77BE;
+    padding-top: 1em;
+    padding-bottom: 2em;
+}
+
+.container-abitabove {
+    margin-top: -20px;
+}
+
+.blog-logo {
+    height: 75px;
+    border-radius: 50%;
+    box-shadow: 0 0 0 1px #666, 0 0 0 2px rgba(0,0,0,.2);
+}
+
+.no-cover {
+    background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAKklEQVQImWPIzMz87+vri4IZfH19/6NLMMAYyBIMyCpgEgzo5mVmZv4HAPmEMRtoR8GQAAAAAElFTkSuQmCC) repeat;

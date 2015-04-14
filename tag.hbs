@@ -1,25 +1,8 @@
 {{!< default}}
-<main class="{{#if tag.image}}" style="background-image: url({{tag.image}}){{else}}{{#if @blog.cover}}" style="background-image: url({{@blog.cover}}){{else}}no-cover{{/if}}{{/if}}">
-
-    <header class="text-center">
-        <h1>{{tag.name}}</h1>
-        <h5>
-            {{#if tag.description}}
-                {{tag.description}}
-            {{else}}
-                A {{pagination.total}}-post collection
-            {{/if}}
-        </h5>
-    </header>
-
-</main>
 
 <main>
     <div class="timeline">
         <dl>
-            <!--<dt>
-            Apr 2014
-            </dt>-->
             {{#foreach posts}}
             <dd class="{{#if @odd}}pos-left{{else}}pos-right{{/if}} clearfix">
                 <div class="circ circ-{{#if @odd}}odd{{/if}}">
@@ -30,9 +13,6 @@
                     </span>
                 </div>
                 <div class="events">
-                    <div class="pull-left">
-                    <!--<img class="events-object img-rounded" src="img/photo-1.jpg">-->
-                    </div>
                     <div class="events-body">
                         <h4 class="events-heading">
                             <a href="{{url}}">{{{title}}}</a>
