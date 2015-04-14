@@ -64,5 +64,17 @@ footer {
 .navbar-logo {
     display: inline-block;
     height: 26px;
+}
 
+.events-heading a {
+    color: dimgrey;
+    transition: all .2s ease-in-out;
+}
+
+.events-heading a:hover {
+    color: #4FC1E9;
+}
+
+.timeline dl dd .events .events-body .events-heading {
+    font-size: 16px!important;
 }
