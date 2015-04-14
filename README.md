@@ -5,15 +5,23 @@ It's based on a modified version of [Bootflat](http://bootflat.github.io/).
 
 Its main feature is the timeline, which is responsive.
 
-Main page:
+Main design :
 
-![Main page](ghost-flat-main.jpg)
+![Main design](ghost-flat-main.jpg)
 
-Post and Static page design:
+The whole design is also responsive :
 
-![Post page](ghost-flat-post-or-page.jpg)
+![Main responsive design](ghost-flat-main-responsive.jpg)
 
-The tag page:
+Post design:
+
+![Post design](ghost-flat-post.jpg)
+
+Page design:
+
+![Page design](ghost-flat-page.jpg)
+
+The tag design:
 
 ![Tag page](ghost-flat-tag.jpg)
 
