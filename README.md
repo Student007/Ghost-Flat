@@ -3,6 +3,20 @@
 Ghost-Flat Theme is a Flat theme for Ghost Blog.
 It's based on a modified version of [Bootflat](http://bootflat.github.io/).
 
+Its main feature is the timeline, which is responsive.
+
+Main page:
+
+![Main page](ghost-flat-main.jpg)
+
+Post and Static page design:
+
+![Post page](ghost-flat-post-or-page.jpg)
+
+The tag page:
+
+![Tag page](ghost-flat-tag.jpg)
+
 ## Copyright & License
 
 Copyright (c) 2015 fabienwang - Released under the MIT License.
